@@ -1,4 +1,4 @@
-SDLC Happy 
+SDLC Happy life
 	software development life cycle
 1) Planning
 2) requirement
